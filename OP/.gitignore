@@ -1,0 +1,44 @@
+## Visual Studio / .NET Core
+[Bb]in/
+[Oo]bj/
+out/
+[L|l]og/
+[L|l]ogs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+build/
+bld/
+[Bb]uild/
+[Bb]uildProcessTemplates/
+
+# Visual Studio tooling
+.vs/
+.idea/
+*.ncrunchproject
+*.ncrunchsolution
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
