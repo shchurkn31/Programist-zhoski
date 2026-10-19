@@ -13,9 +13,3 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Згенеровані зображення (скрипти створюють їх самі)
-*.bmp
-img_*.png
-board_*.png
-gray_*.png
-hsv_*.png
