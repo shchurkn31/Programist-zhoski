@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Згенеровані зображення (скрипти створюють їх самі)
+*.bmp
+img_*.png
+board_*.png
+gray_*.png
+hsv_*.png
